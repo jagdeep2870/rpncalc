@@ -15,7 +15,7 @@ This will create an executable jar file in target dir.
 
 3. Run the calculator.
 ```
-java -jar ./target/rpn_cal-1.0-SNAPSHOT.
+java -jar ./target/rpn_cal-1.0-SNAPSHOT.jar
 ```
 
 The calculator has a stack that can contain real numbers.
